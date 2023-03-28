@@ -1,3 +1,5 @@
-Jeu des allumettes, vu en cours. allumettes.c -> Jeu en solo contre l'ordi
+#Jeu des allumettes, codé en cours. 
 
-à venir, allumettes_2j.c -> Jeu en 1v1 local
+**allumettes.c** -> Jeu en solo contre l'ordi
+
+**allumettes_2j.c** -> Jeu en 1v1 local
